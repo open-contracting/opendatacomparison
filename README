@@ -5,3 +5,5 @@ wget --mirror "http://ocds.opendataservices.coop/opendatacomparison/static/js/bo
 wget --mirror "http://ocds.opendataservices.coop/opendatacomparison/static/css/bokeh.css"
 wget --mirror "http://ocds.opendataservices.coop/opendatacomparison/static/css/continuum.css"
 wget --mirror "http://ocds.opendataservices.coop/opendatacomparison/static/js/vendor/bootstrap/bootstrap-bokeh-2.0.4.css"
+
+opendatacomparison/accounts/login/index.html was then manually created.
