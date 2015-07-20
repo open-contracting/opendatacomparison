@@ -1,3 +1,7 @@
 Downloaded from original site with:
 
 wget -mp --no-parent --max-redirect=0 -X /opendatacomparison/accounts/ "http://ocds.opendataservices.coop/opendatacomparison/" 2> debug.log
+wget --mirror "http://ocds.opendataservices.coop/opendatacomparison/static/js/bokeh.js"
+wget --mirror "http://ocds.opendataservices.coop/opendatacomparison/static/css/bokeh.css"
+wget --mirror "http://ocds.opendataservices.coop/opendatacomparison/static/css/continuum.css"
+wget --mirror "http://ocds.opendataservices.coop/opendatacomparison/static/js/vendor/bootstrap/bootstrap-bokeh-2.0.4.css"
