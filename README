@@ -1,7 +1,3 @@
-This static copy can be found online at http://ocds.open-contracting.org/opendatacomparison/
-
-
-
 Downloaded from original site with:
 
 wget -mp --no-parent --max-redirect=0 -X /opendatacomparison/accounts/ "http://ocds.opendataservices.coop/opendatacomparison/" 2> debug.log
